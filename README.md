@@ -1,2 +1,4 @@
-# demo-repo
-demo-repo
+# DEMO
+
+
+This is a sample Git Repo.
